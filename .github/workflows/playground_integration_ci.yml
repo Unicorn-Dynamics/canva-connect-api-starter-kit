@@ -30,3 +30,4 @@ jobs:
         run: npm run lint
       - name: Frontend - Run build
         run: cd frontend && npm run build
+
